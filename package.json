@@ -1,0 +1,27 @@
+{
+  "name": "zipapp",
+  "version": "1.0.0",
+  "description": "This is a sanple zip app",
+  "main": "zipcode.js",
+  "dependencies": {
+    "zipcode": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AurelienBg/zipapp.git"
+  },
+  "keywords": [
+    "sipcode",
+    "zipapp"
+  ],
+  "author": "Aurelien Burget",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AurelienBg/zipapp/issues"
+  },
+  "homepage": "https://github.com/AurelienBg/zipapp#readme"
+}
